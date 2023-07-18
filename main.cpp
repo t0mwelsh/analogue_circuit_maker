@@ -1,10 +1,10 @@
 /*
-C++ file for Main Assignment in PHYS30762. By Tomas Welsh. Last edited 14/05/2023
-
 Code constructs a class hierachy for analogue circuits with ideal components.
 The code then creates a user environent through the console for a user to create a list of components that
 can then be added to with more components or circuits they make. Code can calculate the impedance of these
 items as a complex number.
+
+By Tomas Welsh. Last edited 18/07/2023
 */
 
 
